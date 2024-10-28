@@ -10,12 +10,12 @@ export default defineConfig({
   },
   build: {
     outDir: '../dist',
-  //   emptyOutDir: true,
-  //   rollupOptions: {
-  //     input: {
-  //       main: './src/index.html',
-  //     },
-  //   },
+    //   emptyOutDir: true,
+    //   rollupOptions: {
+    //     input: {
+    //       main: './src/index.html',
+    //     },
+    //   },
   },
   // plugins: [
   //   injectHTML(),
